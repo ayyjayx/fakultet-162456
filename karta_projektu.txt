@@ -1,0 +1,22 @@
+Wizja: Cel projektu to stworzenie aplikacji webowej, która zawiera mapę kebabów (lokalizacja, opinie) 
+znajdujących się w pobliżu użytkownika na podstawie lokalizacji GPS lub podania adresu, 
+sugestie użytkowników na aktulizację/dodanie/usunięcie kebaba z mapy, link do strony/menu danego kebaba, 
+reklamy sponsorowane
+
+Wartość biznesowa: Właściciele lokali z kebabami będą mogli promować swoje lokale na naszej mapie 
+za opłatą. Wtedy wyświetlane będą reklamy ze spejalnymi ofertami tych lokali np. aktualne promocje
+
+Zakres: Korzystając z API Google Maps pobierane będą istniejące już na mapie adresy lokali z kebabami, 
+oraz dodawane będą adresy sugerowane przez użytkowników.
+Termin na wykonanie aplikacji: 2 miesiące
+
+Role w projekcie: Team Leader, Backend, Frontend, UX/UI, Database, Tester
+
+Wskaźniki postępu: 
+- zintegrowanie API Google Maps
+- wykrywanie lokalizacji
+- utworzenie bazy danych lokali
+- wyświetlanie lokalizacji pobliskich kebabów na mapie
+- wyświetlanie ofert promowanych lokali
+- możliwość napisania opinii
+- dodawanie lokali sugerowanych przez użytkowników
