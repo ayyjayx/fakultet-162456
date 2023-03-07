@@ -1,7 +1,9 @@
 Cel projektu: Mapa kebabów w okolicy
 Wykonanie takie projektu może zająć ok. 2 miesięcy. - ok. 160 godzin roboczych
 W projekcie będzie uczestniczył:
+- team leader
 - projektant UX/UI
-- frontend developer
-- 2 backend developerów
+- frontend dev
+- backend dev
+- database dev
 - tester
